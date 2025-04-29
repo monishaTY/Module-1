@@ -24,4 +24,4 @@ print(type(data1))
 ![image](https://github.com/user-attachments/assets/1ff96400-8782-4b97-8019-9a0695f12151)
 
 ## RESULT
-Thus the Python program Identifying Literal Types have been executed and verified successfully.
+Thus the Python program Identifying Literal Types have been implemented and executed successfully.
