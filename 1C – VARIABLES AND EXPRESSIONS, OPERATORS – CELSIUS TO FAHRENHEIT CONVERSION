@@ -13,17 +13,9 @@ To write a Python program to convert temperature from degree Celsius to Fahrenhe
 
 ## PROGRAM  
 ```python
-# Reg.No- 
-# Name- 
-# Write your code here
 
-# Taking input of temperature in Celsius
 cel = float(input("Enter temperature in Celsius: "))
-
-# Convert Celsius to Fahrenheit
 far = (cel * 1.8) + 32
-
-# Printing the results
 print(f"Celsius = {cel:.2f}")
 print(f"Fahrenheit = {far:.2f}")
 ```
