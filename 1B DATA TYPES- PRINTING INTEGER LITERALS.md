@@ -13,8 +13,6 @@ To write a Python program to read the input from the user and print the type of 
 
 ## PROGRAM
 ```python
-# Reg.No- 212222060031
-# Name- Charankumar R
 
 data = input()
 data1 = eval(data)
