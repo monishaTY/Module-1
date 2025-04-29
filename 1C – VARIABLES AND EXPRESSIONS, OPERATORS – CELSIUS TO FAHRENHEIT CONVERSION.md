@@ -21,7 +21,7 @@ print(f"Fahrenheit = {far:.2f}")
 ```
 
 ## OUTPUT
-
+![Screenshot 2025-04-29 110041](https://github.com/user-attachments/assets/f1cd570b-64a8-4eb8-8431-fa2f62a3cc65)
 
 ## RESULT
 Thus, the Python program for converting temperature from Celsius to Fahrenheit has been implemented and executed successfully.
