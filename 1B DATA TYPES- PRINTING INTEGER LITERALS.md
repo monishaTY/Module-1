@@ -1,28 +1,29 @@
-# Experiment No: 1B- Data Types – Printing Integer Literals
+# Experiment No: 1B – Data Types – Identifying Literal Types
 
 ## AIM  
-To write a Python program to print the following integer literals: 123, 456, 789.
+To write a Python program to read the input from the user and print the type of the literal using `eval()`.
 
 ## ALGORITHM  
 1. Begin the program.  
-2. Initialize the integer literals `123`, `456`, and `789`.  
-3. Use the `print()` function to display the numbers `123`, `456`, and `789`.  
-4. Terminate the program.
+2. Read input from the user using `input()`.  
+3. Use `eval()` to evaluate the input to its actual data type.  
+4. Use `type()` function to identify the type of the evaluated input.  
+5. Print the identified type.  
+6. Terminate the program.
 
 ## PROGRAM
 ```python
 # Reg.No- 212222060031
 # Name- Charankumar R
 
-num1 = 123
-num2 = 456
-num3 = 789
-
-print(num1)
-print(num2)
-print(num3)
+data = input()
+data1 = eval(data)
+print(type(data1))
 
 ```
+
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/1ff96400-8782-4b97-8019-9a0695f12151)
 
 ## RESULT
+THus the Python program Identifying Literal Types have been executed and verified successfully.
