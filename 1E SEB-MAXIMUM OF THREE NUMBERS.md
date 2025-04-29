@@ -24,12 +24,8 @@ print('The maximum of', end=' ')
 print(a, b, c, sep=', ', end=' ')
 print('is', end=' ')
 
-if a > b and a > c:
-    print(a)
-elif b > a and b > c:
-    print(b)
-else:
-    print(c)
+print(a if (a > b and a > c) else (b if b > c else c))
+
 ```
 
 ## OUTPUT
