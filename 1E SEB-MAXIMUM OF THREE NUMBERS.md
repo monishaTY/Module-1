@@ -1,4 +1,4 @@
-# Experiment No: 1f – SEB-Maximum of Three Numbers
+# Experiment No: 1e – SEB-Maximum of Three Numbers
 
 ## AIM  
 To write a Python program to find the maximum between three integer numbers using a conditional expression (Ternary operator).
