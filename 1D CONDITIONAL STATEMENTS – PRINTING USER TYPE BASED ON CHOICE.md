@@ -2,8 +2,6 @@
 
 ## AIM  
 To write a Python program to print the type of user based on the user's choice using `if..elif..else` statements.
-
-## ALGORITHM  
 1. Start the program.  
 2. Accept a numeric input from the user.  
 3. Check the input:  
@@ -12,6 +10,8 @@ To write a Python program to print the type of user based on the user's choice u
    - If input is `3`, print "Guest".  
    - Otherwise, print "Wrong entry".  
 4. End the program.
+## ALGORITHM  
+
 
 ## PROGRAM
 ```python
