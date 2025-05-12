@@ -18,6 +18,8 @@ cel = float(input("Enter temperature in Celsius: "))
 far = (cel * 1.8) + 32
 print(f"Celsius = {cel:.2f}")
 print(f"Fahrenheit = {far:.2f}")
+
+
 ```
 
 ## OUTPUT
