@@ -1,4 +1,4 @@
-## Experiment No: 1d – Conditional Statements- Checking Vowel or not
+## Experiment No: 1d – Conditional Statements- Printing User Type Based on Choice
 
 ## AIM  
 To Write a Python program to check whether the given character is a vowel or not using if..else statement
@@ -13,19 +13,21 @@ To Write a Python program to check whether the given character is a vowel or not
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
-# Write your code here
 
-char = input("Enter a character: ")
-char_lower = char.lower()
-
-if char_lower in ['a', 'e', 'i', 'o', 'u']:
-    print("The given character is a vowel")
+a = int(input())
+if a == 1:
+    print('Admin')
+elif a == 2:
+    print('Editor')
+elif a == 3:
+    print('Guest')
 else:
-    print("The given character is NOT a vowel")
+    print('Wrong entry')
+
 ```
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/12d35400-7fc8-48a7-a975-d126cdc6dda6)
 
 ## RESULT
+Thus, the Python program for Printing User Type Based on Choice has been Implemented and executed successfully.
