@@ -11,6 +11,8 @@ To Write a Python program to check whether the given character is a vowel or not
 6. Otherwise, display "The given character is NOT a vowel"
 4. Terminate the program.
 
+
+
 ## PROGRAM
 ```python
 
