@@ -25,7 +25,6 @@ else:
     print('Wrong entry')
 
 ```
-
 ## OUTPUT
 ![image](https://github.com/user-attachments/assets/12d35400-7fc8-48a7-a975-d126cdc6dda6)
 
