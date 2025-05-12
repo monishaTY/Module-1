@@ -13,13 +13,15 @@ To write a Python program for adding two complex numbers, and get the user input
 
 ## PROGRAM
 ```python
-# Reg.No-
-#Name-
-#Write your code here
 
+cel = float(input("Enter temperature in Celsius: "))
+far = (cel * 1.8) + 32
+print(f"Celsius = {cel:.2f}")
+print(f"Fahrenheit = {far:.2f}")
 ```
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/45c8e645-ddce-4367-a833-17f08f1b48e5)
 
 
 ## RESULT
